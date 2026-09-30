@@ -1,8 +1,18 @@
 # RumiFlux AI
 
-RumiFlux AI is an AI-assisted decision-support prototype for the pre-feasibility assessment of small-scale biogas adoption.
+**AI-assisted decision support for small-scale biogas pre-feasibility.**
 
-The project helps livestock farmers understand whether biogas is worth exploring based on their current farm conditions, what information is still missing, and what practical steps should be taken next.
+IBM Bob · MCP · Langflow · Astra DB · Python · RAG
+
+RumiFlux AI helps livestock farmers make a more structured early-stage decision about biogas adoption.
+
+It focuses on three practical tasks:
+
+- assess biogas readiness
+- estimate potential energy savings
+- generate a staged adoption plan
+
+The system is designed to identify what is feasible to assess now, what information is still missing, and what the next reasonable step should be.
 
 ## Why RumiFlux AI?
 
