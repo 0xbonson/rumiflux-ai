@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+*token*.json
+*secret*.json
+*credential*.json
+github-recovery-codes.txt
+wallets.txt
+mcp.json
+
+# Personal/private documents
+docs/
+*CV*
+*certificate*
+*passport*
+
+# macOS
+.DS_Store
+
+# Local / temporary files
+*.log
+__pycache__/
